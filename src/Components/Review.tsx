@@ -14,6 +14,7 @@ function Review(){
     <p className="p-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, unde eaque officiis nemo ducimus illo! Reiciendis sed delectus nesciunt iusto rerum, quaerat ullam eaque dignissimos magni vero voluptatibus odio dolore reprehenderit ratione. Aperiam nam, illo eos ad quas molestiae cupiditate ex architecto sunt facere perspiciatis ullam, consequatur aliquam beatae? Magnam!</p>
 </div>
 <h1>hlo</h1>
+
       </div>
         </div>
     )
