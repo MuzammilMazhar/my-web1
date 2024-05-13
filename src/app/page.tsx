@@ -22,7 +22,7 @@ export default function Home() {
     </div>
     {/* <Hero/> */}
     <Product/>
-    {/* <Category/> */}
+    
 <Sofa2/>
 <Review/>
   <Footer/>
