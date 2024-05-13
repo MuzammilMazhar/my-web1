@@ -1,7 +1,9 @@
 // import Hero from "@/Components/Hero";
 // import Category from "@/Components/Category";
+import Footer from "@/Components/Footer";
 import Navbar from "@/Components/Navbar";
 import Product from "@/Components/Product";
+import Review from "@/Components/Review";
 import Sofa2 from "@/Components/Sofa2";
 import Image from "next/image";
 import Link from "next/link";
@@ -22,7 +24,8 @@ export default function Home() {
     <Product/>
     {/* <Category/> */}
 <Sofa2/>
-  
+<Review/>
+  <Footer/>
    </div>
   );
 }
