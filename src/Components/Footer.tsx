@@ -3,7 +3,7 @@ import Link from "next/link";
 import { HomeIcon } from "@heroicons/react/16/solid";
 function Footer(){
     return(
-        <div className="flex grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-4 bg-gray-900 rounded-t-lg">
+        <div className="flex grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-4 bg-gray-900 rounded-t-lg mt-10">
         <div>
         <div className=" align-center items-center sm:p-10 p-10">
             <div className="flex items-center">
